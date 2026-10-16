@@ -1,0 +1,385 @@
+============================================================
+FILE: abouts.docsx
+============================================================
+About Charge Ghar Rental
+
+Charge Ghar Rental is the official mobile application of a power bank sharing service operating in Nepal. The app lets you find nearby charging stations, rent a portable power bank, and return it at any participating station in the network.
+
+Our service is designed for people who need to charge their phones while away from home, at work, or while traveling.
+
+How It Works
+
+
+
+
+
+Open the app and view nearby Charge Ghar stations on the map.
+
+
+
+Scan the QR code on a station to unlock a power bank.
+
+
+
+Use the power bank to charge your device while you go about your day.
+
+
+
+Return it to any participating Charge Ghar station when you are done.
+
+
+
+Review your rental summary and payment details in the app.
+
+Key Features
+
+
+
+
+
+Station locator: View participating stations near you, including their location details and power bank availability.
+
+
+
+QR code rental: Rent a power bank quickly by scanning the code on the station.
+
+
+
+Return at any station: Return the power bank at any participating station in the network, not only the one where you rented it.
+
+
+
+Pricing information: Rental rates and applicable charges are shown in the app before you confirm a rental.
+
+
+
+Rental history: View past rentals, payment records, and receipts in your account.
+
+
+
+Customer support: Contact our support team through the app for help with rentals, payments, or returns.
+
+Our Mission
+
+To provide convenient and affordable access to mobile charging for people in Nepal, while encouraging the shared use of devices instead of individual ownership.
+
+Our Vision
+
+A Nepal where mobile charging is easy to access in everyday places, from Kathmandu to communities across the country.
+
+Sustainability
+
+Shared power banks serve many users instead of one. By encouraging shared use, our model aims to reduce the number of individual power banks purchased and help limit electronic waste.
+
+Community and Partnerships
+
+We work with local businesses and organizations, such as cafés, shopping centers, restaurants, transport hubs, and healthcare facilities, to host stations in convenient public places. Station availability varies by location and is shown in the app.
+
+Why Use Charge Ghar Rental
+
+
+
+
+
+Convenience: Stations are placed in commonly visited public locations, and the in-app map helps you find the nearest one.
+
+
+
+Portability: Carry the power bank with you while you charge, then return it to a participating station.
+
+
+
+Sustainability: Shared use supports a reduction in electronic waste.
+
+
+
+Transparent pricing: Rates are displayed in the app before you start a rental, with no subscription required to use the service.
+
+Permissions Used by the App
+
+To provide its core features, the app may request the following permissions. Each is used only for the purpose described.
+
+
+
+
+
+Location: To show nearby stations on the map.
+
+
+
+Camera: To scan the QR code on a station when renting a power bank.
+
+
+
+Notifications: To send rental, return, and payment updates.
+
+
+
+Internet access: To connect with our servers and process rentals.
+
+Privacy and Data
+
+We respect your privacy. Please review our Privacy Policy within the app and on our website to learn how your information is collected, used, and protected.
+
+Contact Us
+
+For questions, feedback, or support, please contact us through the Help section of the app.
+
+Download Charge Ghar Rental to find a station and start your rental.
+============================================================
+FILE: Charge Ghar - Privacy Policy.docx
+============================================================
+Charge Ghar Rental Privacy Policy
+Charge Ghar Pvt. Ltd. · Registration No. 36949/81/82 · PAN 622388100 Tokha, Kathmandu, Nepal · contact@chargeghar.app · chargeghar.app · +977-9857860060
+Effective Date: Oct 16, 2026
+1. Introduction
+Charge Ghar Pvt. Ltd. (“Charge Ghar”, “we”, “us”) operates the Charge Ghar Rental app (the “App”), website and stations (the “Service”). This Privacy Policy explains what personal data we collect, why, how we protect it, how long we keep it and what rights you have. We are committed to data security and user privacy, and we handle personal data in accordance with applicable law in Nepal, including the Privacy Act, 2075 (2018). By using the Service you acknowledge this Policy.
+2. Information We Collect
+2.1 Information you provide. When you create an account: your name and phone number. If you contact support: the content of your communication.
+2.2 Location data. Precise GPS location, only with your permission and only while the App is in use or during an active rental, to show nearby stations and record pickup and return points.
+2.3 Rental and transaction data. Rental history, station and power bank identifiers, rental durations, charges, penalties, security deposits, wallet balance and wallet transaction history, and payment status. We receive payment confirmation and a transaction reference from the payment provider, but we do not collect or store card numbers, wallet credentials or PINs.
+2.4 Device and technical data. Device model, operating system and app version, device identifiers needed for notifications and security, and crash or diagnostic logs.
+2.5 Camera. Used only to scan station QR codes in real time. No photos or video are captured, stored or transmitted.
+2.6 Anonymous use. If you use the App without logging in, you can view nearby stations without providing your name or phone number. Location and basic technical data may still be processed as described above.
+We do not collect government ID documents, contacts, SMS content, photos, microphone data or advertising identifiers.
+3. How We Use Your Information
+To create and manage your account and authenticate you.
+To show nearby stations and operate rentals, returns, billing and refunds.
+To send notifications about rental status, return reminders, payment events and service alerts.
+To provide customer support and handle disputes.
+To detect, investigate and prevent fraud, misuse and breaches of our Terms.
+To maintain, secure and improve the Service.
+To comply with legal and regulatory obligations in Nepal.
+We do not use your data for advertising or profiling for marketing, and we do not make decisions with legal effect on you solely through automated means.
+4. Permissions
+Location: nearby stations and active rental tracking. Optional; you can search manually if denied.
+Notifications: rental and service alerts. Optional; can be disabled in device settings.
+Camera: QR scanning only. Optional; needed to scan station codes.
+You can change any permission at any time in your device settings.
+5. No Sale or Sharing of Personal Data
+We do not sell, rent, trade or share your personal data with third parties for advertising or marketing purposes, and we do not use third-party advertising or tracking SDKs. Your data is disclosed only in these limited circumstances:
+Service providers acting on our instructions — secure cloud hosting, SMS or notification delivery and payment processing — who may handle data only as necessary to provide their service to us and are bound by confidentiality and data protection obligations. Payment providers process payments under their own security standards.
+Legal requirements — where disclosure is required by law, court order or a competent authority in Nepal.
+Protection of rights and safety — to prevent fraud, theft of equipment or serious harm.
+Business transfer — in a merger or sale, subject to continued protection under this Policy.
+6. Data Security
+We use industry-standard safeguards, including encryption in transit (TLS) and at rest, access controls limited to authorised personnel, secure servers and monitoring for suspicious activity. No system is completely secure; if a breach affecting your personal data occurs, we will take prompt remedial action and notify affected users and authorities as required by law.
+7. Data Retention
+Account data (name, phone number): while your account is active, then removed within 30 days of a deletion request.
+Rental and transaction records: retained for up to 7 years where required for legal, tax and accounting compliance.
+Location data: retained only as necessary for rental records and fraud prevention, and deleted or anonymised when no longer needed.
+Support communications and logs: retained for as long as needed to resolve issues and for a reasonable period afterwards.
+8. Your Rights and Account Deletion
+You may: access the personal data we hold about you; correct inaccurate data; delete your data; request a portable copy; object to or restrict certain processing; and withdraw permissions at any time (without affecting prior lawful processing).
+Delete your account: in the App, go to Settings → Account → Delete Account. If you cannot access the App, email privacy@chargeghar.app from the email associated with your request, stating your registered phone number. Any active rental or unpaid balance must be settled first. Personal data is removed from active systems within 30 days, subject to legally required retention in Section 7.
+We respond to rights requests within 72 hours on business days where practicable and complete them within 30 days.
+9. Children’s Privacy
+The Service is not intended for anyone under 18. We do not knowingly collect data from minors. If you believe a minor has registered, contact privacy@chargeghar.app and we will delete the data promptly.
+10. International Processing
+We store data on servers selected for security and reliability. If data is processed outside Nepal, we ensure it remains protected by obligations consistent with this Policy.
+11. Changes to This Policy
+We may update this Policy from time to time. Material changes will be notified in the App and/or on chargeghar.app with an updated effective date. Continued use after the effective date constitutes acceptance.
+12. Rental Policy and Rental Data
+12.1 The Charge Ghar Rental Policy forms part of this Policy. It governs how rentals work: the rental process, fees and charges, wallet and security deposit, overdue and non-return, returns, power bank care, cancellation and support.
+12.2 Data processed during a rental. When you rent, we process: the station QR code you scan (the camera is used only to read the code, and no images are stored); the time and station of release and return; your location at pickup and return, if you permit it; wallet deductions, security deposit, overdue fees and any Lost penalty; and the notifications we send you, such as return reminders, overdue warnings and the “Rental Ended” notice with your final bill summary.
+12.3 Overdue and non-return. If a power bank becomes Overdue or is marked Lost under the Rental Policy, we use your name, phone number and rental and location records to send reminders, apply charges, suspend your account and recover amounts owed. Where required by law, or to address theft of equipment, we may disclose this information to the competent authorities in Nepal.
+12.4 Support requests. If you contact support through Settings → Help & Support → Report an Issue, by email or by phone, we process the information you send, including any screenshot you provide for a technical-error claim, only to resolve your request. Support records are kept as described in Section 7.
+12.5 Retention. Rental, wallet and deposit transaction records are retained for up to 7 years as described in Section 7.
+13. Contact
+Charge Ghar Pvt. Ltd. (Reg. No. 36949/81/82 · PAN 622388100) Tokha, Kathmandu, Nepal Privacy: privacy@chargeghar.app · Support: support@chargeghar.app · Legal: legal@chargeghar.app Website: chargeghar.app Phone: +977-9857860060
+============================================================
+FILE: Charge Ghar - Rental Policy.docx
+============================================================
+Charge Ghar Rental Policy
+Charge Ghar Pvt. Ltd. · Registration No. 36949/81/82 · PAN 622388100 Tokha, Kathmandu, Nepal · contact@chargeghar.app · chargeghar.app · +977-9857860060
+Effective Date: Oct 16, 2026
+This Rental Policy sets out how power bank rentals work through the Charge Ghar Rental mobile application (the “App”) and related service. It forms part of, and must be read together with, the Charge Ghar Terms and Conditions and Privacy Policy. If this Rental Policy conflicts with the Terms and Conditions regarding a rental, this Rental Policy prevails for that rental.
+1. Rental Process
+Step 1: Find a station. Open the App and use the live map to locate the nearest available station.
+Step 2: Scan the QR code. Tap “Rent” and scan the QR code on the station. Ensure your wallet balance is sufficient before renting.
+Step 3: Collect your power bank. The slot opens and the power bank is released. The rental timer begins immediately upon release.
+Step 4: Charge your device. Use the built-in cables (USB-C, Lightning, Micro-USB). The power bank is portable and may be carried with you during the rental.
+Step 5: Return to any station. Insert the power bank into any available slot at any Charge Ghar station. The slot LED turns green on success. Check the App for the “Rental Ended” notification.
+2. Fees and Charges
+2.1 The actual fee amounts are displayed in the App before you confirm a rental. By confirming, you accept the displayed fees. Fees are in Nepalese Rupees (NPR) and may be subject to applicable taxes.
+2.2 Charges are automatically deducted from your Charge Ghar wallet. Wallet top-ups are processed by licensed third-party payment providers; Charge Ghar does not collect or store your card numbers, wallet credentials or PINs.
+2.3 The following charges may apply:
+Base Fee (first hour): charged from the moment the power bank is released.
+Hourly Rate: charged per hour after the first hour.
+Daily Cap (24 hours): the maximum charge for any 24-hour period.
+Security Deposit: refundable upon successful return (see Section 4).
+Overdue Fee: applied after the maximum rental period is exceeded.
+Lost Penalty: charged if the power bank is not returned within the period specified in the App (currently NPR 3,000).
+3. Overdue and Non-Return
+3.1 A power bank is considered Overdue once it has not been returned after the number of hours specified in the App.
+3.2 Push notifications are sent before Overdue status is triggered. Enabling notifications is recommended so that you receive these reminders.
+3.3 Overdue fees accumulate on top of regular rental fees.
+3.4 A power bank not returned within the number of days specified in the App is marked as Lost, and the Lost Penalty is charged immediately.
+3.5 The Security Deposit is forfeited on non-return and is applied toward the Lost Penalty; any remaining balance is charged to your wallet or otherwise recovered from you.
+3.6 Your account is suspended until the Lost Penalty is paid in full.
+3.7 If you return a power bank after it has been marked Lost, Charge Ghar may, at its sole discretion, refund part of the penalty.
+4. Returning the Power Bank
+4.1 You may return the power bank to any available slot at any Charge Ghar station across Nepal.
+4.2 Insert the power bank firmly until it clicks into place.
+4.3 The slot LED turns green to confirm a successful return, and the App sends a “Rental Ended” notification with a final bill summary.
+4.4 If the slot is full or a technical error occurs, try another slot or a nearby station.
+4.5 Do not leave the power bank unattended without completing the digital return in the App. Fees continue to accrue until the return is confirmed.
+4.6 The Security Deposit is refunded to your wallet within 24 hours of a confirmed return.
+5. Power Bank Care
+5.1 Avoid dropping the power bank, exposing it to water, or exposing it to extreme temperatures.
+5.2 Do not use a visibly damaged power bank. Report it through the App’s Help section.
+5.3 Do not open, disassemble or modify the power bank.
+5.4 Intentional damage results in a charge equal to the full replacement cost, as described in the Terms and Conditions.
+6. Cancellation
+6.1 A rental cannot be cancelled once the power bank has been released from the station.
+6.2 To end a rental, return the power bank to any Charge Ghar station.
+6.3 If a rental occurred accidentally because of a technical error, contact support within 5 minutes with a screenshot. Verified errors are reversed.
+7. Support and Assistance
+In-App: Settings → Help & Support → Report an Issue
+Email: support@chargeghar.app
+Phone: +977-9857860060
+Response time: within 2 hours for active rental issues; within 24 hours for general inquiries
+Support is available 24/7 for active rental emergencies.
+8. Related Policies
+Your rental is also governed by the Charge Ghar Terms and Conditions (including liability, damages, account suspension and dispute resolution) and the Privacy Policy (including how rental and location data is handled).
+============================================================
+FILE: Charge Ghar - Terms and Conditions.docx
+============================================================
+Charge Ghar Rental Terms and Conditions
+Charge Ghar Pvt. Ltd. · Registration No. 36949/81/82 · PAN 622388100 Tokha, Kathmandu, Nepal · contact@chargeghar.app · chargeghar.app · +977-9857860060
+Effective Date: Oct 16, 2026
+1. Acceptance of Terms
+1.1 These Terms and Conditions (“Terms”) form a binding agreement between you (“User”) and Charge Ghar Pvt. Ltd. (“Charge Ghar”, “Company”, “we”, “us”), a company registered in Nepal, governing your use of the Charge Ghar Rental mobile application (the “App”), website (chargeghar.app), power bank rental stations and related services (together, the “Service”).
+1.2 By downloading, accessing or using the Service, or by renting a power bank, you confirm that you have read, understood and agree to these Terms and to our Privacy Policy. If you do not agree, do not use the Service.
+2. Eligibility
+2.1 You must be at least 18 years old, or the age of majority under the laws of Nepal, and legally capable of entering into a binding contract.
+2.2 You may use the Service only for lawful purposes and in accordance with these Terms.
+3. Accounts and Access
+3.1 Anonymous use. You may open the App and view nearby charging stations without creating an account or logging in.
+3.2 Account-based use. To rent a power bank, you must create an account by providing your name and phone number, which may be verified by a one-time code sent to that number.
+3.3 You must provide accurate and current information and keep it up to date. You are responsible for all activity under your account and for keeping your login credentials and device secure. Notify us promptly at support@chargeghar.app of any unauthorised use.
+3.4 Each person may hold one active account. Creating multiple or fake accounts, or using automated means to access the Service, is prohibited.
+3.5 We may suspend, restrict or refuse access to an account where we reasonably suspect fraud, misuse, breach of these Terms or a risk to our equipment or other users.
+4. Rental Rules
+4.1 Power banks may be rented only through the official App by scanning the QR code on a Charge Ghar station, or through another method we expressly make available.
+4.2 Each User may rent one power bank at a time.
+4.3 The rental period begins when the power bank is released from the station and ends when it is successfully returned to any Charge Ghar station and the return is confirmed in the App.
+4.4 Power banks are to be used solely to charge your personal electronic devices. You must not tamper with, open, modify, disassemble or attempt to repair any power bank or station, or use a power bank in a manner that is unsafe, for resale, for commercial gain or for any unlawful purpose.
+4.5 You are responsible for the safe custody of the power bank for the entire rental period and must not lend, transfer or sublet it to any other person.
+4.6 You must follow safety instructions displayed on the power bank, station or App, and must stop using any power bank that overheats, swells, emits smoke or odour, or appears damaged, and report it to us immediately.
+4.7 Rental Policy. The Charge Ghar Rental Policy, which sets out the rental process, fees and charges, wallet and security deposit, overdue and non-return rules, return procedure, power bank care, cancellation and support, forms part of these Terms. By renting a power bank you agree to it. If the Rental Policy conflicts with these Terms regarding a rental, the Rental Policy prevails for that rental.
+5. Pricing, Payments and Billing
+5.1 Rental prices, free periods, daily caps and applicable taxes are displayed in the App before you confirm a rental. Prices are in Nepalese Rupees (NPR). By confirming a rental you accept the displayed pricing.
+5.2 Wallet and security deposit. Rentals are paid from your Charge Ghar wallet, which must hold a sufficient balance before you rent. Fees are deducted automatically from the wallet. A refundable security deposit applies as described in the Rental Policy and is refunded to your wallet within 24 hours of a confirmed return. Charges become payable from the moment the power bank is released.
+5.3 No storage of payment details. Wallet top-ups and other payments are processed by licensed third-party payment service providers and digital wallets in Nepal. Charge Ghar does not collect, see or store your card numbers, wallet credentials, PINs or passwords.
+5.4 Rental fees accrue for the full period until a return is confirmed. You are responsible for ensuring the return is completed and confirmed in the App.
+5.5 If a payment fails or remains outstanding, we may suspend your account and refuse further rentals until the amount is settled, and may take reasonable steps to recover it as permitted by law.
+6. Cancellations and Refunds
+6.1 A rental cannot be cancelled once the power bank has been released from the station. To end a rental, return the power bank to any Charge Ghar station. If a rental occurred accidentally because of a technical error, or the power bank failed to release or was faulty on release, contact support within 5 minutes through the App or at support@chargeghar.app, with a screenshot. Verified errors are reversed.
+6.2 Refunds arise only where you have been charged in error or a verified technical fault on the part of Charge Ghar caused an incorrect charge. Verified refunds are credited to your wallet or returned through the original payment channel within a reasonable period after verification.
+6.3 Fees for completed rentals that functioned properly are otherwise non-refundable.
+6.4 Billing disputes must be raised within 7 days of the charge by writing to support@chargeghar.app with your registered phone number and rental details.
+7. Overdue, Lost and Damaged Power Banks
+7.1 Each rental is subject to a maximum rental period, which is displayed in the App at the time of rental. Where a power bank is not returned within that period, overdue charges apply as displayed in the App.
+7.2 If a power bank is not returned within the period specified in the App, it is marked “Lost” and a penalty of NPR 3,000 (inclusive of applicable taxes) is charged immediately. Your security deposit is forfeited and applied toward the penalty, any remaining balance is charged to your wallet or otherwise recovered, and your account is suspended until the penalty is paid in full. If you later return the power bank in good condition, Charge Ghar may, at its sole discretion, refund part of the penalty.
+7.3 If a power bank is returned damaged, broken or with missing components through misuse, negligence or breach of these Terms, you are liable for a charge equal to its repair or replacement cost, not exceeding NPR 3,000.
+7.4 You bear the risk of loss, theft or damage from the time the power bank leaves the station until its return is confirmed. If a power bank is stolen, you must report it to the police and to us within 24 hours.
+8. App Permissions
+8.1 Location. Used to show nearby charging stations and to display pickup and return locations. Location is accessed only while the App is in use or during an active rental. You can deny this permission and instead search for stations manually.
+8.2 Notifications. Used to send rental status updates, return reminders, payment and service alerts. You may disable notifications in your device settings, but doing so may cause you to miss return reminders.
+8.3 Camera. Used solely to scan station QR codes. No photos or video are captured or stored.
+8.4 Permissions can be changed at any time in your device settings. Core features that depend on a permission may not work if it is denied.
+9. Account Deletion and Data Retention
+9.1 You may delete your account in the App at Settings → Account → Delete Account, or by requesting deletion at privacy@chargeghar.app. Any active rental or unpaid amount must be settled first.
+9.2 On deletion, your personal data is removed from our active systems within 30 days, except records we are legally required to retain (such as transaction records, kept for up to 7 years under Nepalese law).
+9.3 Our handling of personal data is described in the Privacy Policy, which forms part of these Terms.
+10. Prohibited Conduct
+You must not: (a) provide false information or impersonate another person; (b) hack, reverse engineer, decompile, probe or disrupt the App, stations or our systems; (c) use the Service for any activity that is unlawful under the laws of Nepal; (d) damage, steal, conceal or tamper with Charge Ghar equipment; (e) create fake accounts or use bots or scripts; (f) resell or sublet power banks or use them for commercial gain; or (g) abuse promotions, free periods or refund processes.
+11. Intellectual Property
+The App, brand, logos, software, content and station designs are owned by or licensed to Charge Ghar and protected by law. We grant you a limited, revocable, non-exclusive, non-transferable licence to use the App for personal, non-commercial purposes in accordance with these Terms.
+12. Disclaimers
+12.1 The Service is provided on an “as is” and “as available” basis. To the extent permitted by law, we disclaim all warranties not expressly stated in these Terms, including uninterrupted or error-free operation, station availability and charging speed.
+12.2 Charge Ghar is not liable for damage to, or data loss on, your personal devices resulting from charging, except where caused by our proven negligence.
+12.3 Station locations, availability and battery levels shown in the App are indicative and may differ in practice.
+13. Limitation of Liability
+13.1 To the maximum extent permitted by applicable law, Charge Ghar is not liable for indirect, incidental, consequential, special or punitive damages, or for loss of profits, data or goodwill, arising from your use of the Service.
+13.2 Our total aggregate liability to you in connection with any rental shall not exceed the total amount paid by you for that rental transaction.
+13.3 Nothing in these Terms excludes or limits liability that cannot be excluded or limited under the laws of Nepal, including liability for death or personal injury caused by our negligence, fraud, or rights you hold under consumer protection law.
+14. Indemnification
+You agree to indemnify and hold harmless Charge Ghar, its directors, employees and partners from claims, losses, liabilities and reasonable expenses (including legal fees) arising from your breach of these Terms, your misuse of a power bank or station, or your violation of any law or third-party right.
+15. Suspension and Termination
+We may suspend or terminate your account or access to the Service, with notice where practicable, for breach of these Terms, failure to return a power bank, non-payment, fraud, abuse, bad-faith charge disputes or where required by law. You may stop using the Service and delete your account at any time under Section 9. Sections that by their nature should survive termination (including Sections 5, 7, 12 to 14 and 16) will survive.
+16. Governing Law and Dispute Resolution
+16.1 These Terms are governed by the laws of Nepal.
+16.2 Negotiation. Parties shall first attempt in good faith to resolve any dispute by written notice and direct negotiation for 30 days.
+16.3 Jurisdiction. Any dispute not resolved by negotiation shall be subject to the exclusive jurisdiction of the competent courts of Kathmandu, Nepal, unless the parties agree in writing to arbitration in Kathmandu under the Arbitration Act, 2055 (1999) of Nepal.
+17. Force Majeure
+Charge Ghar is not liable for failure or delay caused by events beyond its reasonable control, including natural disasters, power or network outages, strikes, government action or civil disturbance.
+18. Amendments
+We may update these Terms from time to time. Material changes will be notified through in-app notifications and/or on chargeghar.app, with the updated effective date shown above. Continued use of the Service after changes take effect constitutes acceptance. If you do not agree, you must stop using the Service and may delete your account.
+19. General
+These Terms and the Privacy Policy are the entire agreement between you and Charge Ghar regarding the Service. If any provision is held unenforceable, the remainder stays in effect. Failure to enforce a provision is not a waiver. You may not assign these Terms without our written consent; we may assign them in connection with a merger, acquisition or sale of business.
+20. Contact and Legal Notices
+Charge Ghar Pvt. Ltd. Registration No.: 36949/81/82 · PAN: 622388100 Address: Tokha, Kathmandu, Nepal Support: support@chargeghar.app · Privacy: privacy@chargeghar.app · Legal notices: legal@chargeghar.app Website: chargeghar.app Phone: +977-9857860060
+Legal notices must be sent in writing to the email or postal address above.
+============================================================
+FILE: Charge Ghar Rental - Contact Us.docx
+============================================================
+Get in Touch
+Charge Ghar Rental · Charge Ghar Pvt. Ltd. · Registration No. 36949/81/82 · PAN 622388100
+We are here to help. Reach us through any of the channels below. Last updated Oct 16, 2026.
+Contact Information
+Purpose
+Contact
+General Support
+support@chargeghar.app
+Privacy and Data Requests
+privacy@chargeghar.app
+Legal and Compliance
+legal@chargeghar.app
+General Inquiries
+contact@chargeghar.app
+Phone
++977-9857860060
+Website
+chargeghar.app
+Office Address
+Charge Ghar Pvt. Ltd., Tokha, Kathmandu, Nepal
+Response Times
+Request type
+Response time
+Active rental issue
+Within 2 hours
+General inquiry
+Within 24 hours
+Support is available 24/7 for active rental emergencies.
+In-App Support
+For immediate assistance, open the Charge Ghar Rental app and go to Settings → Help & Support → Report an Issue.
+Account Deletion
+Via the App: Settings → Account → Delete Account
+Via email: send your request to privacy@chargeghar.app from the email you used with us, stating your registered phone number
+Any active rental or unpaid balance must be settled first. Personal data is removed from active systems within 30 days, subject to records we are legally required to keep.
+Contact Form
+To submit a support request, please provide the following:
+Field
+Required
+Full Name
+Yes
+Email Address
+Yes
+Phone Number
+No
+Subject
+Yes
+Message
+Yes
+Subject options:
+Rental Issue
+Billing & Payments
+Account & Login
+Technical Problem
+Privacy / Data Request
+Account Deletion Request
+Partnership Inquiry
+General Feedback
+Other
